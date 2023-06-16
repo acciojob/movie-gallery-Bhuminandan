@@ -1,2 +1,18 @@
+*{
+    background-color: darkolivegreen;
+}
+.container {
+    display: flex;
+    align-items: center; 
+    float: left;
+  }
+  .image{
+    float: left;
+    padding: 5px;
+  }
 
-/* Your CSS Code here. */
+  .container1 {
+    display: flex;
+    align-items: center; 
+    float: left;
+  }
